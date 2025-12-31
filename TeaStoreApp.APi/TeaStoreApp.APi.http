@@ -1,0 +1,6 @@
+@TeaStoreApp.APi_HostAddress = http://localhost:5208
+
+GET {{TeaStoreApp.APi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
