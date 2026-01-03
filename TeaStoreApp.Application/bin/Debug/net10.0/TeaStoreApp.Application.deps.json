@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TeaStoreApp.Application/1.0.0": {
+        "dependencies": {
+          "TeaStoreApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TeaStoreApp.Application.dll": {}
+        }
+      },
+      "TeaStoreApp.Domain/1.0.0": {
+        "runtime": {
+          "TeaStoreApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeaStoreApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TeaStoreApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

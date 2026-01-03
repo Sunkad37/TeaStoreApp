@@ -1,0 +1,12 @@
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/bin/Debug/net10.0/TeaStoreApp.Domain.deps.json
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/bin/Debug/net10.0/TeaStoreApp.Domain.dll
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/bin/Debug/net10.0/TeaStoreApp.Domain.pdb
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/obj/Debug/net10.0/TeaStoreApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/obj/Debug/net10.0/TeaStoreApp.Domain.AssemblyInfoInputs.cache
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/obj/Debug/net10.0/TeaStoreApp.Domain.AssemblyInfo.cs
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/obj/Debug/net10.0/TeaStoreApp.Domain.csproj.CoreCompileInputs.cache
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/obj/Debug/net10.0/TeaStoreApp.Domain.sourcelink.json
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/obj/Debug/net10.0/TeaStoreApp.Domain.dll
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/obj/Debug/net10.0/refint/TeaStoreApp.Domain.dll
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/obj/Debug/net10.0/TeaStoreApp.Domain.pdb
+/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/obj/Debug/net10.0/ref/TeaStoreApp.Domain.dll

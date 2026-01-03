@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\TeaStoreApp.Domain\TeaStoreApp.Domain.csproj" />
+    </ItemGroup>
+
 </Project>

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "TeaStoreApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/TeaStoreApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeaStoreApp.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TeaStoreApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TeaStoreApp.Domain/TeaStoreApp.Domain.csproj",
+      "msbuildProject": "../TeaStoreApp.Domain/TeaStoreApp.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "TeaStoreApp.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/sharansunkad/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/TeaStoreApp.Domain.csproj": {
+              "projectPath": "/Users/sharansunkad/RiderProjects/TeaStoreApp/TeaStoreApp.Domain/TeaStoreApp.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
